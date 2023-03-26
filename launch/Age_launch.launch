@@ -1,0 +1,4 @@
+<?xml version='1.0'?>
+<launch>
+	<node pkg='topics_pkg' name='topic_sim3' type='Age_publisher.py'></node>
+</launch>

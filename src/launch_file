@@ -1,0 +1,4 @@
+<?xml version='1.0'?>
+<launch>
+	<node pkg='my_pakcage' name='topic' type='simple_topic_publisher.py' output='screen'></n>
+</launch>
