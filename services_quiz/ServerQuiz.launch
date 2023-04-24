@@ -1,0 +1,5 @@
+<?xml version='1.0'?>
+<launch>
+	<node pkg='services_quiz' name='client' type='client.py'></node>
+	<node pkg='services_quiz' name='server' type='server.py'></node>
+</launch>
