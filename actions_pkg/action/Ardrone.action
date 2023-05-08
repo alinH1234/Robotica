@@ -1,0 +1,10 @@
+#goal for the drone
+uint8 TAKEOFF=0
+uint8 LAND=1
+---
+#result
+
+---
+#feedback
+uint8 current_action
+uint8 percent_complete
